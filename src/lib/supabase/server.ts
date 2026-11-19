@@ -9,8 +9,10 @@ import type { Database } from "./database.types";
  * Acts as the signed-in user, so Row Level Security applies to every query.
  */
 export async function createClient() {
-  assertSupabaseConfigured();
+  // Read cookies first: this marks the route as dynamic even when Supabase is
+  // not configured (for example a CI build without credentials).
   const cookieStore = await cookies();
+  assertSupabaseConfigured();
 
   return createServerClient<Database>(supabaseUrl, supabaseKey, {
     cookies: {
