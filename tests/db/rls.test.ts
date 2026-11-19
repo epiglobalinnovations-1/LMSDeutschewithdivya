@@ -291,3 +291,65 @@ describe("coverage", () => {
     expect(rows).toEqual([]);
   });
 });
+
+describe("learning engine functions", () => {
+  it("record_study_activity derives today's XP from the student's own reviews", async () => {
+    const out = await as("authenticated", alice, async () => {
+      const v = await db.query("select id from public.vocabulary where source = 'rls test' limit 1");
+      for (const state of ["new", "learning"]) {
+        await db.query(
+          `insert into public.review_history (user_id, vocabulary_id, rating, direction, state_before, stability_after, difficulty_after, duration_ms)
+           values ($1, $2, 'good', 'de_en', $3, 2, 5, 8000)`,
+          [alice, v.rows[0].id, state],
+        );
+      }
+      const r = await db.query("select public.record_study_activity() as a");
+      const day = await db.query("select xp, reviews, new_words from public.daily_activity where user_id = $1", [alice]);
+      const earned = await db.query("select a.key from public.student_achievements sa join public.achievements a on a.id = sa.achievement_id");
+      // calling twice must not double-count
+      await db.query("select public.record_study_activity()");
+      const again = await db.query("select xp from public.daily_activity where user_id = $1", [alice]);
+      return { a: r.rows[0].a, day: day.rows[0], earned: earned.rows.map((x) => x.key), again: again.rows[0].xp };
+    });
+    expect(out.a).toMatchObject({ reviews: 2, new_words: 1, streak: 1 });
+    // 2 reviews + 2 for the new word + 10 XP "first_steps" bonus
+    expect(out.day).toEqual({ xp: 14, reviews: 2, new_words: 1 });
+    expect(out.earned).toEqual(["first_steps"]);
+    expect(out.again).toBe(14);
+  });
+
+  it("anonymous visitors cannot call record_study_activity", async () => {
+    await expect(as("anon", null, () => db.query("select public.record_study_activity()"))).rejects.toThrow(/permission denied/);
+  });
+
+  it("students cannot write daily activity directly", async () => {
+    await expectDenied(() =>
+      as("authenticated", alice, () =>
+        db.query("insert into public.daily_activity (user_id, activity_date, xp) values ($1, current_date, 9999)", [alice]),
+      ),
+    );
+  });
+
+  it("only staff can bulk import vocabulary", async () => {
+    const item = JSON.stringify([
+      { lemma: "Rlstestwort", article: "der", part_of_speech: "noun", cefr_level: "A1", translations: ["test word"], source: "rls test" },
+    ]);
+    await expect(as("authenticated", alice, () => db.query("select public.import_vocabulary($1::jsonb)", [item]))).rejects.toThrow(
+      /only teachers/,
+    );
+    const r = await as("authenticated", teacher, async () => {
+      const first = await db.query("select public.import_vocabulary($1::jsonb) as r", [item]);
+      const second = await db.query("select public.import_vocabulary($1::jsonb, 'skip') as r", [item]);
+      const t = await db.query("select count(*)::int as n from public.vocabulary_translations vt join public.vocabulary v on v.id = vt.vocabulary_id where v.lemma = 'Rlstestwort'");
+      return { first: first.rows[0].r, second: second.rows[0].r, translations: t.rows[0].n };
+    });
+    expect(r.first).toMatchObject({ inserted: 1, updated: 0 });
+    expect(r.second).toMatchObject({ inserted: 0, skipped: 1 });
+    expect(r.translations).toBe(1);
+  });
+
+  it("category counts only include the caller's own words", async () => {
+    const counts = await as("authenticated", bob, async () => (await db.query("select * from public.vocabulary_category_counts()")).rows[0]);
+    expect(Number(counts.total_seen)).toBe(0);
+  });
+});

@@ -25,7 +25,8 @@ insert into public.topics (slug, name, sort_order) values
   ('technology', 'Technology', 16),
   ('government', 'Government', 17),
   ('society', 'Society', 18),
-  ('culture', 'Culture', 19)
+  ('culture', 'Culture', 19),
+  ('numbers', 'Numbers and time', 20)
 on conflict (slug) do update set name = excluded.name, sort_order = excluded.sort_order;
 
 -- Membership tiers (spec section 17) ----------------------------------------

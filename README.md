@@ -59,6 +59,7 @@ npm test                        # unit tests
 npm run test:db                 # RLS tests against the local database (22 tests)
 npm run build
 npm start & node tests/e2e/phase1.mjs   # browser end-to-end check (33 checks, needs the local stack)
+node tests/e2e/phase2.mjs                # Phase 2 flashcards, library, admin import (18 checks)
 ```
 
 ## Database

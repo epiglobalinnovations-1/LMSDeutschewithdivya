@@ -26,7 +26,7 @@ function greeting() {
 export default async function DashboardPage({ searchParams }: PageProps<"/app">) {
   const sp = await searchParams;
   const user = await requireUser();
-  const [stats, announcements] = await Promise.all([getDashboardStats(user.id), getActiveAnnouncements()]);
+  const [stats, announcements] = await Promise.all([getDashboardStats(user.id, user.profile?.timezone ?? "Asia/Kolkata"), getActiveAnnouncements()]);
   const level = user.profile?.current_level ?? "A1";
   const target = user.profile?.daily_new_words ?? 10;
   const todayPct = Math.min(100, (stats.newToday / target) * 100);
@@ -79,13 +79,19 @@ export default async function DashboardPage({ searchParams }: PageProps<"/app">)
           <h2 className="font-semibold">Recommended next</h2>
           {stats.wordsLearned === 0 ? (
             <p className="mt-2 text-ink-soft">
-              Start with your first {target} {level} words. Flashcards open in the next release of the platform; your
-              settings below decide how many new words you get each day.
+              Start with your first {target} {level} words. Each card takes a few seconds, and FSRS brings it back just
+              before you would forget it.
             </p>
           ) : (
             <p className="mt-2 text-ink-soft">Clear your {stats.dueNow} due reviews first, then learn new words.</p>
           )}
-          <div className="mt-4 flex flex-wrap gap-2">
+          <div className="mt-4 flex flex-wrap gap-4">
+            <Link href="/app/flashcards/study?mode=daily" className="text-sm font-medium text-accent hover:underline">
+              Start today’s session →
+            </Link>
+            <Link href="/app/vocabulary" className="text-sm font-medium text-accent hover:underline">
+              Browse vocabulary →
+            </Link>
             <Link href="/app/settings" className="text-sm font-medium text-accent hover:underline">
               Adjust daily target →
             </Link>

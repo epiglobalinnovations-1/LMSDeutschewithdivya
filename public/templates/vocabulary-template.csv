@@ -1,0 +1,4 @@
+id,word,article,plural,category,translation,level,topic,ipa,pronunciation_guide,example_de,example_en,difficulty,related,partizip_ii,auxiliary,present
+A1-VOC-HOME-9001,Tisch,der,Tische,noun,table,A1,housing,tɪʃ,TISH,Der Tisch ist groß.,The table is big.,1,der Stuhl,,,
+A1-VOC-DAILY-9002,gehen,,,verb,to go; to walk,A1,daily-routines,ˈɡeːən,GAY-en,Ich gehe nach Hause.,I am going home.,1,kommen,gegangen,sein,gehe; gehst; geht; gehen; geht; gehen
+A1-VOC-FOOD-9003,Milch,die,no plural,noun,milk,A1,food,mɪlç,MILKH,Die Milch ist kalt.,The milk is cold.,1,,,,

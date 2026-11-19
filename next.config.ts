@@ -13,6 +13,11 @@ const nextConfig: NextConfig = {
   // request, marketing pages are statically prerendered. Revisit in Phase 7.
   cacheComponents: false,
   poweredByHeader: false,
+  experimental: {
+    // Admin imports upload spreadsheets through Server Actions. Vercel caps
+    // request bodies at 4.5 MB, so files are limited to 4 MB in the UI.
+    serverActions: { bodySizeLimit: "5mb" },
+  },
   turbopack: {
     rules: {
       "*.css": {

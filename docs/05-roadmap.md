@@ -46,5 +46,18 @@ Legend: ✅ completed · 🔄 in progress · ⏳ pending · ⛔ blocked
 - ⏳ Bootstrap Divya's admin account: needs her sign-up email (`scripts/grant-role.sql`)
 - ⛔ About page biography and real photo: needs Divya's details (deutschewithdivya.com blocks automated reading)
 
+### Phase 2: learning engine
+- ✅ FSRS scheduler via `ts-fsrs` (retention 0.9, learning steps 1 min / 10 min), 9 unit tests
+- ✅ Database: `record_study_activity()` derives XP, minutes, new words and reviews from the review log and awards achievements; `vocabulary_category_counts()`; `import_vocabulary()`; storage buckets (audio, images, avatars, imports)
+- ✅ A1 starter vocabulary: 135 words (nouns with gender and plural, verbs with Präsens, Präteritum, Partizip II and auxiliary, IPA, pronunciation guide, examples), imported as **drafts** pending Divya's review (`content/a1/starter-vocabulary.json`)
+- ✅ Import of CSV, Excel and JSON with validation, duplicate detection, existing-word check, update/skip, deck creation (20 tests); CSV/JSON export; CSV template
+- ✅ Flashcard session: flip, swipe, keyboard shortcuts, four ratings, known/unknown, bookmark, shuffle, previous/next, DE→EN and EN→DE, re-queue of forgotten cards, progress bar, summary with XP, streak and achievements
+- ✅ Daily target queue (due reviews first, then new words up to the target) plus review-only, new-only, difficult and bookmarked modes, and per-deck study
+- ✅ Vocabulary library (search German/English, level, topic, category, deck), word detail with conjugation table and recall chance, "I know this"
+- ✅ My progress (30-day XP chart, accuracy, categories, words by level), achievements, my courses with enrolment (premium courses gated), dashboard with live numbers
+- ✅ Admin: vocabulary list with bulk verify/publish, word editor with validation, deck builder, import and export
+- ✅ Verification: 38 unit tests, 27 RLS tests, build, 18 Phase 2 browser checks + 33 Phase 1 checks
+- ⏳ Divya reviews the starter list and marks words verified (Admin → Vocabulary → Draft)
+
 ### Later phases
-See milestone table above. Phase 2 starts after Phase 1 is reviewed.
+See milestone table above.

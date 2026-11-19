@@ -1,5 +1,6 @@
 import "server-only";
 import { createClient } from "@/lib/supabase/server";
+import { localDate } from "./study";
 
 export type DashboardStats = {
   wordsLearned: number;
@@ -28,10 +29,10 @@ export function computeStreak(activeDates: string[], today = new Date()): number
 }
 
 /** Live numbers for the student dashboard, read through RLS (own rows only). */
-export async function getDashboardStats(userId: string): Promise<DashboardStats> {
+export async function getDashboardStats(userId: string, timezone = "Asia/Kolkata"): Promise<DashboardStats> {
   const supabase = await createClient();
   const now = new Date();
-  const today = isoDate(now);
+  const today = localDate(timezone, now);
   const weekAgo = new Date(now);
   weekAgo.setUTCDate(weekAgo.getUTCDate() - 6);
   const ninetyAgo = new Date(now);
