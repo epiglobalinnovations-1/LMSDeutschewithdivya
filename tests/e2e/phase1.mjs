@@ -215,8 +215,8 @@ await step("settings save to the database", async () => {
 });
 
 await step("coming-soon modules are clearly labelled", async () => {
-  await page.goto(BASE + "/app/flashcards");
-  await page.getByText("Arrives in phase 2").waitFor();
+  await page.goto(BASE + "/app/grammar");
+  await page.getByText("Arrives in phase 3").waitFor();
 });
 
 await step("students cannot open the admin area", async () => {

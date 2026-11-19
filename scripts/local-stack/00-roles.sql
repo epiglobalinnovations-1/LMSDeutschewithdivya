@@ -7,6 +7,7 @@ create role authenticator login password 'postgres' noinherit;
 grant anon, authenticated, service_role to authenticator;
 create role supabase_auth_admin login password 'postgres' createrole noinherit;
 create schema if not exists auth authorization supabase_auth_admin;
+grant usage on schema auth to anon, authenticated, service_role;
 create schema if not exists extensions;
 grant usage on schema extensions to anon, authenticated, service_role;
 alter role supabase_auth_admin set search_path = auth;

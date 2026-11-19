@@ -1,4 +1,7 @@
 /** Navigation and roll-out status for the student and admin applications. */
+
+/** Highest phase whose modules are live. Modules above it show "Soon". */
+export const RELEASED_PHASE = 2;
 export type ModuleInfo = {
   slug: string;
   label: string;

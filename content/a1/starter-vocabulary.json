@@ -1,0 +1,3479 @@
+{
+  "metadata": {
+    "course_level": "A1",
+    "module": "vocabulary",
+    "topic": "mixed",
+    "language": "de-DE / en",
+    "content_version": "0.1.0",
+    "total_items": 135,
+    "quality_check_status": "pending_teacher_review",
+    "source": "Deutsche with Divya A1 starter list (draft)",
+    "note": "Draft content written for the platform. Every item imports with is_verified=false until a teacher reviews it in Admin → Vocabulary."
+  },
+  "items": [
+    {
+      "id": "A1-VOC-GREET-0001",
+      "word": "Hallo",
+      "category": "phrase",
+      "translation": [
+        "hello",
+        "hi"
+      ],
+      "ipa": "haˈloː",
+      "pronunciation_guide": "hah-LOH",
+      "example": {
+        "de": "Hallo, ich bin Anna.",
+        "en": "Hello, I am Anna."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Tschüss"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0002",
+      "word": "Guten Morgen",
+      "category": "phrase",
+      "translation": [
+        "good morning"
+      ],
+      "ipa": "ˈɡuːtn̩ ˈmɔʁɡn̩",
+      "pronunciation_guide": "GOO-ten MOR-gen",
+      "example": {
+        "de": "Guten Morgen, Frau Weber!",
+        "en": "Good morning, Mrs Weber!"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Guten Tag",
+        "Guten Abend"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0003",
+      "word": "Guten Tag",
+      "category": "phrase",
+      "translation": [
+        "good day",
+        "hello"
+      ],
+      "ipa": "ˈɡuːtn̩ ˈtaːk",
+      "pronunciation_guide": "GOO-ten TAHK",
+      "example": {
+        "de": "Guten Tag, wie geht es Ihnen?",
+        "en": "Hello, how are you?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Guten Morgen"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0004",
+      "word": "Guten Abend",
+      "category": "phrase",
+      "translation": [
+        "good evening"
+      ],
+      "ipa": "ˈɡuːtn̩ ˈaːbn̩t",
+      "pronunciation_guide": "GOO-ten AH-bent",
+      "example": {
+        "de": "Guten Abend, Herr Klein.",
+        "en": "Good evening, Mr Klein."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Gute Nacht"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0005",
+      "word": "Gute Nacht",
+      "category": "phrase",
+      "translation": [
+        "good night"
+      ],
+      "ipa": "ˈɡuːtə ˈnaxt",
+      "pronunciation_guide": "GOO-tuh NAHKHT (kh as in Scottish 'loch')",
+      "example": {
+        "de": "Gute Nacht, schlaf gut!",
+        "en": "Good night, sleep well!"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Guten Abend"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0006",
+      "word": "Tschüss",
+      "category": "phrase",
+      "translation": [
+        "bye"
+      ],
+      "ipa": "tʃʏs",
+      "pronunciation_guide": "CHUESS (round your lips for ü)",
+      "example": {
+        "de": "Tschüss, bis morgen!",
+        "en": "Bye, see you tomorrow!"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Auf Wiedersehen"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0007",
+      "word": "Auf Wiedersehen",
+      "category": "phrase",
+      "translation": [
+        "goodbye"
+      ],
+      "ipa": "aʊ̯f ˈviːdɐˌzeːən",
+      "pronunciation_guide": "owf VEE-der-zay-en",
+      "example": {
+        "de": "Auf Wiedersehen und danke!",
+        "en": "Goodbye and thank you!"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "Tschüss"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0008",
+      "word": "Wie geht's?",
+      "category": "phrase",
+      "translation": [
+        "how are you? (informal)"
+      ],
+      "ipa": "viː ˈɡeːts",
+      "pronunciation_guide": "vee GAYTS",
+      "example": {
+        "de": "Hallo Tom, wie geht's?",
+        "en": "Hi Tom, how are you?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "gut"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0009",
+      "word": "bitte",
+      "category": "particle",
+      "translation": [
+        "please",
+        "you're welcome"
+      ],
+      "ipa": "ˈbɪtə",
+      "pronunciation_guide": "BIT-tuh",
+      "example": {
+        "de": "Einen Kaffee, bitte.",
+        "en": "A coffee, please."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "danke"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0010",
+      "word": "danke",
+      "category": "interjection",
+      "translation": [
+        "thank you",
+        "thanks"
+      ],
+      "ipa": "ˈdaŋkə",
+      "pronunciation_guide": "DAHN-kuh",
+      "example": {
+        "de": "Danke für die Hilfe.",
+        "en": "Thanks for the help."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "bitte"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0011",
+      "word": "ja",
+      "category": "particle",
+      "translation": [
+        "yes"
+      ],
+      "ipa": "jaː",
+      "pronunciation_guide": "YAH",
+      "example": {
+        "de": "Ja, das ist richtig.",
+        "en": "Yes, that is right."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "nein"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0012",
+      "word": "nein",
+      "category": "particle",
+      "translation": [
+        "no"
+      ],
+      "ipa": "naɪ̯n",
+      "pronunciation_guide": "NINE",
+      "example": {
+        "de": "Nein, danke.",
+        "en": "No, thank you."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "ja"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0013",
+      "word": "Entschuldigung",
+      "category": "interjection",
+      "translation": [
+        "excuse me",
+        "sorry"
+      ],
+      "ipa": "ɛntˈʃʊldɪɡʊŋ",
+      "pronunciation_guide": "ent-SHOOL-dee-goong",
+      "example": {
+        "de": "Entschuldigung, wo ist der Bahnhof?",
+        "en": "Excuse me, where is the station?"
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "bitte"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0014",
+      "word": "heißen",
+      "category": "verb",
+      "translation": [
+        "to be called"
+      ],
+      "ipa": "ˈhaɪ̯sn̩",
+      "pronunciation_guide": "HY-sen",
+      "verb_forms": {
+        "infinitive": "heißen",
+        "present": {
+          "ich": "heiße",
+          "du": "heißt",
+          "er_sie_es": "heißt",
+          "wir": "heißen",
+          "ihr": "heißt",
+          "sie_Sie": "heißen"
+        },
+        "praeteritum": {
+          "ich": "hieß",
+          "du": "hießt",
+          "er_sie_es": "hieß",
+          "wir": "hießen",
+          "ihr": "hießt",
+          "sie_Sie": "hießen"
+        },
+        "partizip_ii": "geheißen"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich heiße Maria.",
+        "en": "My name is Maria."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Name"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-GREET-0015",
+      "word": "Name",
+      "article": "der",
+      "plural": "Namen",
+      "category": "noun",
+      "translation": [
+        "name"
+      ],
+      "ipa": "ˈnaːmə",
+      "pronunciation_guide": "NAH-muh",
+      "example": {
+        "de": "Wie ist Ihr Name?",
+        "en": "What is your name?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "heißen"
+      ],
+      "topic": "greetings",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0001",
+      "word": "Familie",
+      "article": "die",
+      "plural": "Familien",
+      "category": "noun",
+      "translation": [
+        "family"
+      ],
+      "ipa": "faˈmiːli̯ə",
+      "pronunciation_guide": "fah-MEE-lee-uh",
+      "example": {
+        "de": "Meine Familie wohnt in Berlin.",
+        "en": "My family lives in Berlin."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Eltern"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0002",
+      "word": "Mutter",
+      "article": "die",
+      "plural": "Mütter",
+      "category": "noun",
+      "translation": [
+        "mother"
+      ],
+      "ipa": "ˈmʊtɐ",
+      "pronunciation_guide": "MOOT-ter",
+      "example": {
+        "de": "Meine Mutter ist Ärztin.",
+        "en": "My mother is a doctor."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Vater"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0003",
+      "word": "Vater",
+      "article": "der",
+      "plural": "Väter",
+      "category": "noun",
+      "translation": [
+        "father"
+      ],
+      "ipa": "ˈfaːtɐ",
+      "pronunciation_guide": "FAH-ter",
+      "example": {
+        "de": "Mein Vater kocht gern.",
+        "en": "My father likes to cook."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Mutter"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0004",
+      "word": "Bruder",
+      "article": "der",
+      "plural": "Brüder",
+      "category": "noun",
+      "translation": [
+        "brother"
+      ],
+      "ipa": "ˈbʁuːdɐ",
+      "pronunciation_guide": "BROO-der",
+      "example": {
+        "de": "Ich habe einen Bruder.",
+        "en": "I have a brother."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Schwester"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0005",
+      "word": "Schwester",
+      "article": "die",
+      "plural": "Schwestern",
+      "category": "noun",
+      "translation": [
+        "sister"
+      ],
+      "ipa": "ˈʃvɛstɐ",
+      "pronunciation_guide": "SHVES-ter",
+      "example": {
+        "de": "Meine Schwester ist zehn Jahre alt.",
+        "en": "My sister is ten years old."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Bruder"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0006",
+      "word": "Kind",
+      "article": "das",
+      "plural": "Kinder",
+      "category": "noun",
+      "translation": [
+        "child"
+      ],
+      "ipa": "kɪnt",
+      "pronunciation_guide": "KINT",
+      "example": {
+        "de": "Das Kind spielt im Garten.",
+        "en": "The child is playing in the garden."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Sohn",
+        "die Tochter"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0007",
+      "word": "Sohn",
+      "article": "der",
+      "plural": "Söhne",
+      "category": "noun",
+      "translation": [
+        "son"
+      ],
+      "ipa": "zoːn",
+      "pronunciation_guide": "ZOHN",
+      "example": {
+        "de": "Ihr Sohn heißt Paul.",
+        "en": "Her son is called Paul."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Tochter"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0008",
+      "word": "Tochter",
+      "article": "die",
+      "plural": "Töchter",
+      "category": "noun",
+      "translation": [
+        "daughter"
+      ],
+      "ipa": "ˈtɔxtɐ",
+      "pronunciation_guide": "TOKH-ter",
+      "example": {
+        "de": "Seine Tochter lernt Deutsch.",
+        "en": "His daughter is learning German."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Sohn"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0009",
+      "word": "Mann",
+      "article": "der",
+      "plural": "Männer",
+      "category": "noun",
+      "translation": [
+        "man",
+        "husband"
+      ],
+      "ipa": "man",
+      "pronunciation_guide": "MAHN",
+      "example": {
+        "de": "Der Mann trinkt einen Tee.",
+        "en": "The man is drinking a tea."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Frau"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0010",
+      "word": "Frau",
+      "article": "die",
+      "plural": "Frauen",
+      "category": "noun",
+      "translation": [
+        "woman",
+        "wife",
+        "Mrs"
+      ],
+      "ipa": "fʁaʊ̯",
+      "pronunciation_guide": "FROW (rhymes with 'now')",
+      "example": {
+        "de": "Die Frau liest ein Buch.",
+        "en": "The woman is reading a book."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Mann"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0011",
+      "word": "Oma",
+      "article": "die",
+      "plural": "Omas",
+      "category": "noun",
+      "translation": [
+        "grandma"
+      ],
+      "ipa": "ˈoːma",
+      "pronunciation_guide": "OH-mah",
+      "example": {
+        "de": "Meine Oma backt einen Kuchen.",
+        "en": "My grandma is baking a cake."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Opa"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0012",
+      "word": "Opa",
+      "article": "der",
+      "plural": "Opas",
+      "category": "noun",
+      "translation": [
+        "grandpa"
+      ],
+      "ipa": "ˈoːpa",
+      "pronunciation_guide": "OH-pah",
+      "example": {
+        "de": "Mein Opa ist achtzig.",
+        "en": "My grandpa is eighty."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Oma"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0013",
+      "word": "Freund",
+      "article": "der",
+      "plural": "Freunde",
+      "category": "noun",
+      "translation": [
+        "friend (male)",
+        "boyfriend"
+      ],
+      "ipa": "fʁɔɪ̯nt",
+      "pronunciation_guide": "FROYNT",
+      "example": {
+        "de": "Das ist mein Freund Jonas.",
+        "en": "This is my friend Jonas."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Freundin"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FAMILY-0014",
+      "word": "Freundin",
+      "article": "die",
+      "plural": "Freundinnen",
+      "category": "noun",
+      "translation": [
+        "friend (female)",
+        "girlfriend"
+      ],
+      "ipa": "ˈfʁɔɪ̯ndɪn",
+      "pronunciation_guide": "FROYN-din",
+      "example": {
+        "de": "Meine Freundin kommt aus Indien.",
+        "en": "My friend comes from India."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Freund"
+      ],
+      "topic": "family",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0001",
+      "word": "Brot",
+      "article": "das",
+      "plural": "Brote",
+      "category": "noun",
+      "translation": [
+        "bread"
+      ],
+      "ipa": "bʁoːt",
+      "pronunciation_guide": "BROHT",
+      "example": {
+        "de": "Ich kaufe ein Brot.",
+        "en": "I am buying a loaf of bread."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Brötchen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0002",
+      "word": "Wasser",
+      "article": "das",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "water"
+      ],
+      "ipa": "ˈvasɐ",
+      "pronunciation_guide": "VAH-ser",
+      "example": {
+        "de": "Ein Glas Wasser, bitte.",
+        "en": "A glass of water, please."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "trinken"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0003",
+      "word": "Kaffee",
+      "article": "der",
+      "plural": "Kaffees",
+      "category": "noun",
+      "translation": [
+        "coffee"
+      ],
+      "ipa": "ˈkafe",
+      "pronunciation_guide": "KAH-feh",
+      "example": {
+        "de": "Am Morgen trinke ich Kaffee.",
+        "en": "In the morning I drink coffee."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Tee"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0004",
+      "word": "Tee",
+      "article": "der",
+      "plural": "Tees",
+      "category": "noun",
+      "translation": [
+        "tea"
+      ],
+      "ipa": "teː",
+      "pronunciation_guide": "TAY",
+      "example": {
+        "de": "Möchtest du einen Tee?",
+        "en": "Would you like a tea?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Kaffee"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0005",
+      "word": "Milch",
+      "article": "die",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "milk"
+      ],
+      "ipa": "mɪlç",
+      "pronunciation_guide": "MILKH (soft 'ch' as in 'huge')",
+      "example": {
+        "de": "Die Milch ist im Kühlschrank.",
+        "en": "The milk is in the fridge."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Kaffee"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0006",
+      "word": "Apfel",
+      "article": "der",
+      "plural": "Äpfel",
+      "category": "noun",
+      "translation": [
+        "apple"
+      ],
+      "ipa": "ˈapfl̩",
+      "pronunciation_guide": "AHP-fel",
+      "example": {
+        "de": "Der Apfel ist rot.",
+        "en": "The apple is red."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Obst"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0007",
+      "word": "Ei",
+      "article": "das",
+      "plural": "Eier",
+      "category": "noun",
+      "translation": [
+        "egg"
+      ],
+      "ipa": "aɪ̯",
+      "pronunciation_guide": "EYE",
+      "example": {
+        "de": "Zum Frühstück esse ich ein Ei.",
+        "en": "For breakfast I eat an egg."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Frühstück"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0008",
+      "word": "Käse",
+      "article": "der",
+      "plural": "Käse",
+      "category": "noun",
+      "translation": [
+        "cheese"
+      ],
+      "ipa": "ˈkɛːzə",
+      "pronunciation_guide": "KAY-zuh",
+      "example": {
+        "de": "Der Käse kommt aus der Schweiz.",
+        "en": "The cheese comes from Switzerland."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Brot"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0009",
+      "word": "Fleisch",
+      "article": "das",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "meat"
+      ],
+      "ipa": "flaɪ̯ʃ",
+      "pronunciation_guide": "FLYSH",
+      "example": {
+        "de": "Ich esse kein Fleisch.",
+        "en": "I don't eat meat."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "der Fisch"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0010",
+      "word": "Fisch",
+      "article": "der",
+      "plural": "Fische",
+      "category": "noun",
+      "translation": [
+        "fish"
+      ],
+      "ipa": "fɪʃ",
+      "pronunciation_guide": "FISH",
+      "example": {
+        "de": "Heute gibt es Fisch.",
+        "en": "Today there is fish."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Fleisch"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0011",
+      "word": "Gemüse",
+      "article": "das",
+      "plural": "Gemüse",
+      "category": "noun",
+      "translation": [
+        "vegetables"
+      ],
+      "ipa": "ɡəˈmyːzə",
+      "pronunciation_guide": "guh-MUE-zuh",
+      "example": {
+        "de": "Gemüse ist gesund.",
+        "en": "Vegetables are healthy."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Obst"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0012",
+      "word": "Obst",
+      "article": "das",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "fruit"
+      ],
+      "ipa": "oːpst",
+      "pronunciation_guide": "OHPST",
+      "example": {
+        "de": "Ich esse jeden Tag Obst.",
+        "en": "I eat fruit every day."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "der Apfel"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0013",
+      "word": "Kartoffel",
+      "article": "die",
+      "plural": "Kartoffeln",
+      "category": "noun",
+      "translation": [
+        "potato"
+      ],
+      "ipa": "kaʁˈtɔfl̩",
+      "pronunciation_guide": "kar-TOF-fel",
+      "example": {
+        "de": "Die Kartoffeln sind heiß.",
+        "en": "The potatoes are hot."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Gemüse"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0014",
+      "word": "Reis",
+      "article": "der",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "rice"
+      ],
+      "ipa": "ʁaɪ̯s",
+      "pronunciation_guide": "RICE",
+      "example": {
+        "de": "Wir kochen Reis mit Gemüse.",
+        "en": "We are cooking rice with vegetables."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kochen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0015",
+      "word": "Frühstück",
+      "article": "das",
+      "plural": "Frühstücke",
+      "category": "noun",
+      "translation": [
+        "breakfast"
+      ],
+      "ipa": "ˈfʁyːʃtʏk",
+      "pronunciation_guide": "FRUE-shtuek",
+      "example": {
+        "de": "Das Frühstück ist fertig.",
+        "en": "Breakfast is ready."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Mittagessen",
+        "das Abendessen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0016",
+      "word": "Mittagessen",
+      "article": "das",
+      "plural": "Mittagessen",
+      "category": "noun",
+      "translation": [
+        "lunch"
+      ],
+      "ipa": "ˈmɪtaːkˌʔɛsn̩",
+      "pronunciation_guide": "MIT-tahk-es-sen",
+      "example": {
+        "de": "Das Mittagessen ist um zwölf Uhr.",
+        "en": "Lunch is at twelve o'clock."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Frühstück"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0017",
+      "word": "Abendessen",
+      "article": "das",
+      "plural": "Abendessen",
+      "category": "noun",
+      "translation": [
+        "dinner",
+        "supper"
+      ],
+      "ipa": "ˈaːbn̩tˌʔɛsn̩",
+      "pronunciation_guide": "AH-bent-es-sen",
+      "example": {
+        "de": "Was gibt es zum Abendessen?",
+        "en": "What is there for dinner?"
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Mittagessen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0018",
+      "word": "lecker",
+      "category": "adjective",
+      "translation": [
+        "tasty",
+        "delicious"
+      ],
+      "ipa": "ˈlɛkɐ",
+      "pronunciation_guide": "LEK-ker",
+      "example": {
+        "de": "Die Suppe ist sehr lecker.",
+        "en": "The soup is very tasty."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "essen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0019",
+      "word": "essen",
+      "category": "verb",
+      "translation": [
+        "to eat"
+      ],
+      "ipa": "ˈɛsn̩",
+      "pronunciation_guide": "ES-sen",
+      "verb_forms": {
+        "infinitive": "essen",
+        "present": {
+          "ich": "esse",
+          "du": "isst",
+          "er_sie_es": "isst",
+          "wir": "essen",
+          "ihr": "esst",
+          "sie_Sie": "essen"
+        },
+        "praeteritum": {
+          "ich": "aß",
+          "du": "aßest",
+          "er_sie_es": "aß",
+          "wir": "aßen",
+          "ihr": "aßt",
+          "sie_Sie": "aßen"
+        },
+        "partizip_ii": "gegessen"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Wir essen um sieben Uhr.",
+        "en": "We eat at seven o'clock."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "trinken"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0020",
+      "word": "trinken",
+      "category": "verb",
+      "translation": [
+        "to drink"
+      ],
+      "ipa": "ˈtʁɪŋkn̩",
+      "pronunciation_guide": "TRINK-en",
+      "verb_forms": {
+        "infinitive": "trinken",
+        "present": {
+          "ich": "trinke",
+          "du": "trinkst",
+          "er_sie_es": "trinkt",
+          "wir": "trinken",
+          "ihr": "trinkt",
+          "sie_Sie": "trinken"
+        },
+        "praeteritum": {
+          "ich": "trank",
+          "du": "trankst",
+          "er_sie_es": "trank",
+          "wir": "tranken",
+          "ihr": "trankt",
+          "sie_Sie": "tranken"
+        },
+        "partizip_ii": "getrunken"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Er trinkt gern Tee.",
+        "en": "He likes drinking tea."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "essen"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-FOOD-0021",
+      "word": "kochen",
+      "category": "verb",
+      "translation": [
+        "to cook"
+      ],
+      "ipa": "ˈkɔxn̩",
+      "pronunciation_guide": "KOKH-en",
+      "verb_forms": {
+        "infinitive": "kochen",
+        "present": {
+          "ich": "koche",
+          "du": "kochst",
+          "er_sie_es": "kocht",
+          "wir": "kochen",
+          "ihr": "kocht",
+          "sie_Sie": "kochen"
+        },
+        "praeteritum": {
+          "ich": "kochte",
+          "du": "kochtest",
+          "er_sie_es": "kochte",
+          "wir": "kochten",
+          "ihr": "kochtet",
+          "sie_Sie": "kochten"
+        },
+        "partizip_ii": "gekocht"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Heute koche ich Nudeln.",
+        "en": "Today I am cooking pasta."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Küche"
+      ],
+      "topic": "food",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0001",
+      "word": "Haus",
+      "article": "das",
+      "plural": "Häuser",
+      "category": "noun",
+      "translation": [
+        "house"
+      ],
+      "ipa": "haʊ̯s",
+      "pronunciation_guide": "HOUSE",
+      "example": {
+        "de": "Das Haus ist groß.",
+        "en": "The house is big."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Wohnung"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0002",
+      "word": "Wohnung",
+      "article": "die",
+      "plural": "Wohnungen",
+      "category": "noun",
+      "translation": [
+        "flat",
+        "apartment"
+      ],
+      "ipa": "ˈvoːnʊŋ",
+      "pronunciation_guide": "VOH-noong",
+      "example": {
+        "de": "Meine Wohnung hat drei Zimmer.",
+        "en": "My flat has three rooms."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "wohnen"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0003",
+      "word": "Zimmer",
+      "article": "das",
+      "plural": "Zimmer",
+      "category": "noun",
+      "translation": [
+        "room"
+      ],
+      "ipa": "ˈtsɪmɐ",
+      "pronunciation_guide": "TSIM-mer",
+      "example": {
+        "de": "Das Zimmer ist hell.",
+        "en": "The room is bright."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Wohnung"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0004",
+      "word": "Küche",
+      "article": "die",
+      "plural": "Küchen",
+      "category": "noun",
+      "translation": [
+        "kitchen"
+      ],
+      "ipa": "ˈkʏçə",
+      "pronunciation_guide": "KUE-khuh (soft 'ch')",
+      "example": {
+        "de": "Wir essen in der Küche.",
+        "en": "We eat in the kitchen."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kochen"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0005",
+      "word": "Bad",
+      "article": "das",
+      "plural": "Bäder",
+      "category": "noun",
+      "translation": [
+        "bathroom"
+      ],
+      "ipa": "baːt",
+      "pronunciation_guide": "BAHT",
+      "example": {
+        "de": "Das Bad ist neben der Küche.",
+        "en": "The bathroom is next to the kitchen."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Zimmer"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0006",
+      "word": "Tisch",
+      "article": "der",
+      "plural": "Tische",
+      "category": "noun",
+      "translation": [
+        "table"
+      ],
+      "ipa": "tɪʃ",
+      "pronunciation_guide": "TISH",
+      "example": {
+        "de": "Das Buch liegt auf dem Tisch.",
+        "en": "The book is on the table."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Stuhl"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0007",
+      "word": "Stuhl",
+      "article": "der",
+      "plural": "Stühle",
+      "category": "noun",
+      "translation": [
+        "chair"
+      ],
+      "ipa": "ʃtuːl",
+      "pronunciation_guide": "SHTOOL",
+      "example": {
+        "de": "Der Stuhl ist bequem.",
+        "en": "The chair is comfortable."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Tisch"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0008",
+      "word": "Bett",
+      "article": "das",
+      "plural": "Betten",
+      "category": "noun",
+      "translation": [
+        "bed"
+      ],
+      "ipa": "bɛt",
+      "pronunciation_guide": "BET",
+      "example": {
+        "de": "Das Bett ist zu klein.",
+        "en": "The bed is too small."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "schlafen"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0009",
+      "word": "Tür",
+      "article": "die",
+      "plural": "Türen",
+      "category": "noun",
+      "translation": [
+        "door"
+      ],
+      "ipa": "tyːɐ̯",
+      "pronunciation_guide": "TUER",
+      "example": {
+        "de": "Bitte mach die Tür zu.",
+        "en": "Please close the door."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Fenster"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0010",
+      "word": "Fenster",
+      "article": "das",
+      "plural": "Fenster",
+      "category": "noun",
+      "translation": [
+        "window"
+      ],
+      "ipa": "ˈfɛnstɐ",
+      "pronunciation_guide": "FEN-ster",
+      "example": {
+        "de": "Das Fenster ist offen.",
+        "en": "The window is open."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Tür"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-HOME-0011",
+      "word": "wohnen",
+      "category": "verb",
+      "translation": [
+        "to live (reside)"
+      ],
+      "ipa": "ˈvoːnən",
+      "pronunciation_guide": "VOH-nen",
+      "verb_forms": {
+        "infinitive": "wohnen",
+        "present": {
+          "ich": "wohne",
+          "du": "wohnst",
+          "er_sie_es": "wohnt",
+          "wir": "wohnen",
+          "ihr": "wohnt",
+          "sie_Sie": "wohnen"
+        },
+        "praeteritum": {
+          "ich": "wohnte",
+          "du": "wohntest",
+          "er_sie_es": "wohnte",
+          "wir": "wohnten",
+          "ihr": "wohntet",
+          "sie_Sie": "wohnten"
+        },
+        "partizip_ii": "gewohnt"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich wohne in München.",
+        "en": "I live in Munich."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Wohnung"
+      ],
+      "topic": "housing",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0001",
+      "word": "Supermarkt",
+      "article": "der",
+      "plural": "Supermärkte",
+      "category": "noun",
+      "translation": [
+        "supermarket"
+      ],
+      "ipa": "ˈzuːpɐˌmaʁkt",
+      "pronunciation_guide": "ZOO-per-markt",
+      "example": {
+        "de": "Der Supermarkt ist bis acht Uhr offen.",
+        "en": "The supermarket is open until eight."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kaufen"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0002",
+      "word": "Geld",
+      "article": "das",
+      "plural": "Gelder",
+      "category": "noun",
+      "translation": [
+        "money"
+      ],
+      "ipa": "ɡɛlt",
+      "pronunciation_guide": "GELT",
+      "example": {
+        "de": "Ich habe kein Geld dabei.",
+        "en": "I have no money on me."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Euro"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0003",
+      "word": "Euro",
+      "article": "der",
+      "plural": "Euros",
+      "category": "noun",
+      "translation": [
+        "euro"
+      ],
+      "ipa": "ˈɔɪ̯ʁo",
+      "pronunciation_guide": "OY-roh",
+      "example": {
+        "de": "Das kostet fünf Euro.",
+        "en": "That costs five euros."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Geld"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0004",
+      "word": "Tasche",
+      "article": "die",
+      "plural": "Taschen",
+      "category": "noun",
+      "translation": [
+        "bag"
+      ],
+      "ipa": "ˈtaʃə",
+      "pronunciation_guide": "TAH-shuh",
+      "example": {
+        "de": "Die Tasche ist schwer.",
+        "en": "The bag is heavy."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kaufen"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0005",
+      "word": "teuer",
+      "category": "adjective",
+      "translation": [
+        "expensive"
+      ],
+      "ipa": "ˈtɔɪ̯ɐ",
+      "pronunciation_guide": "TOY-er",
+      "example": {
+        "de": "Das Auto ist zu teuer.",
+        "en": "The car is too expensive."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "billig"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0006",
+      "word": "billig",
+      "category": "adjective",
+      "translation": [
+        "cheap"
+      ],
+      "ipa": "ˈbɪlɪç",
+      "pronunciation_guide": "BIL-likh",
+      "example": {
+        "de": "Das T-Shirt ist billig.",
+        "en": "The T-shirt is cheap."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "teuer"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0007",
+      "word": "kaufen",
+      "category": "verb",
+      "translation": [
+        "to buy"
+      ],
+      "ipa": "ˈkaʊ̯fn̩",
+      "pronunciation_guide": "KOW-fen",
+      "verb_forms": {
+        "infinitive": "kaufen",
+        "present": {
+          "ich": "kaufe",
+          "du": "kaufst",
+          "er_sie_es": "kauft",
+          "wir": "kaufen",
+          "ihr": "kauft",
+          "sie_Sie": "kaufen"
+        },
+        "praeteritum": {
+          "ich": "kaufte",
+          "du": "kauftest",
+          "er_sie_es": "kaufte",
+          "wir": "kauften",
+          "ihr": "kauftet",
+          "sie_Sie": "kauften"
+        },
+        "partizip_ii": "gekauft"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Wir kaufen Obst und Gemüse.",
+        "en": "We are buying fruit and vegetables."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Supermarkt"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0008",
+      "word": "kosten",
+      "category": "verb",
+      "translation": [
+        "to cost"
+      ],
+      "ipa": "ˈkɔstn̩",
+      "pronunciation_guide": "KOS-ten",
+      "verb_forms": {
+        "infinitive": "kosten",
+        "present": {
+          "ich": "koste",
+          "du": "kostest",
+          "er_sie_es": "kostet",
+          "wir": "kosten",
+          "ihr": "kostet",
+          "sie_Sie": "kosten"
+        },
+        "praeteritum": {
+          "ich": "kostete",
+          "du": "kostetest",
+          "er_sie_es": "kostete",
+          "wir": "kosteten",
+          "ihr": "kostetet",
+          "sie_Sie": "kosteten"
+        },
+        "partizip_ii": "gekostet"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Wie viel kostet das?",
+        "en": "How much does that cost?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "teuer",
+        "billig"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-SHOP-0009",
+      "word": "brauchen",
+      "category": "verb",
+      "translation": [
+        "to need"
+      ],
+      "ipa": "ˈbʁaʊ̯xn̩",
+      "pronunciation_guide": "BROW-khen",
+      "verb_forms": {
+        "infinitive": "brauchen",
+        "present": {
+          "ich": "brauche",
+          "du": "brauchst",
+          "er_sie_es": "braucht",
+          "wir": "brauchen",
+          "ihr": "braucht",
+          "sie_Sie": "brauchen"
+        },
+        "praeteritum": {
+          "ich": "brauchte",
+          "du": "brauchtest",
+          "er_sie_es": "brauchte",
+          "wir": "brauchten",
+          "ihr": "brauchtet",
+          "sie_Sie": "brauchten"
+        },
+        "partizip_ii": "gebraucht"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich brauche eine neue Tasche.",
+        "en": "I need a new bag."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kaufen"
+      ],
+      "topic": "shopping",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0001",
+      "word": "Bus",
+      "article": "der",
+      "plural": "Busse",
+      "category": "noun",
+      "translation": [
+        "bus"
+      ],
+      "ipa": "bʊs",
+      "pronunciation_guide": "BOOS (short 'oo')",
+      "example": {
+        "de": "Der Bus kommt um neun Uhr.",
+        "en": "The bus comes at nine o'clock."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Haltestelle"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0002",
+      "word": "Zug",
+      "article": "der",
+      "plural": "Züge",
+      "category": "noun",
+      "translation": [
+        "train"
+      ],
+      "ipa": "tsuːk",
+      "pronunciation_guide": "TSOOK",
+      "example": {
+        "de": "Der Zug nach Hamburg hat Verspätung.",
+        "en": "The train to Hamburg is late."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "der Bahnhof"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0003",
+      "word": "Auto",
+      "article": "das",
+      "plural": "Autos",
+      "category": "noun",
+      "translation": [
+        "car"
+      ],
+      "ipa": "ˈaʊ̯to",
+      "pronunciation_guide": "OW-toh",
+      "example": {
+        "de": "Mein Auto ist alt.",
+        "en": "My car is old."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "fahren"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0004",
+      "word": "Fahrrad",
+      "article": "das",
+      "plural": "Fahrräder",
+      "category": "noun",
+      "translation": [
+        "bicycle"
+      ],
+      "ipa": "ˈfaːɐ̯ˌʁaːt",
+      "pronunciation_guide": "FAR-raht",
+      "example": {
+        "de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+        "en": "I ride my bike to work."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "fahren"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0005",
+      "word": "Bahnhof",
+      "article": "der",
+      "plural": "Bahnhöfe",
+      "category": "noun",
+      "translation": [
+        "train station"
+      ],
+      "ipa": "ˈbaːnˌhoːf",
+      "pronunciation_guide": "BAHN-hohf",
+      "example": {
+        "de": "Wo ist der Bahnhof?",
+        "en": "Where is the train station?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Zug"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0006",
+      "word": "Haltestelle",
+      "article": "die",
+      "plural": "Haltestellen",
+      "category": "noun",
+      "translation": [
+        "stop (bus, tram)"
+      ],
+      "ipa": "ˈhaltəˌʃtɛlə",
+      "pronunciation_guide": "HAHL-tuh-shtel-luh",
+      "example": {
+        "de": "Die Haltestelle ist hier links.",
+        "en": "The stop is here on the left."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "der Bus"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0007",
+      "word": "Fahrkarte",
+      "article": "die",
+      "plural": "Fahrkarten",
+      "category": "noun",
+      "translation": [
+        "ticket"
+      ],
+      "ipa": "ˈfaːɐ̯ˌkaʁtə",
+      "pronunciation_guide": "FAR-kar-tuh",
+      "example": {
+        "de": "Ich brauche eine Fahrkarte nach Köln.",
+        "en": "I need a ticket to Cologne."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "der Zug"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0008",
+      "word": "links",
+      "category": "adverb",
+      "translation": [
+        "left",
+        "on the left"
+      ],
+      "ipa": "lɪŋks",
+      "pronunciation_guide": "LINKS",
+      "example": {
+        "de": "Gehen Sie hier links.",
+        "en": "Go left here."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "rechts"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0009",
+      "word": "rechts",
+      "category": "adverb",
+      "translation": [
+        "right",
+        "on the right"
+      ],
+      "ipa": "ʁɛçts",
+      "pronunciation_guide": "REKHTS",
+      "example": {
+        "de": "Die Apotheke ist rechts.",
+        "en": "The pharmacy is on the right."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "links"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0010",
+      "word": "geradeaus",
+      "category": "adverb",
+      "translation": [
+        "straight ahead"
+      ],
+      "ipa": "ɡəˌʁaːdəˈʔaʊ̯s",
+      "pronunciation_guide": "guh-rah-duh-OWS",
+      "example": {
+        "de": "Gehen Sie immer geradeaus.",
+        "en": "Keep going straight ahead."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "links",
+        "rechts"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-TRANS-0011",
+      "word": "fahren",
+      "category": "verb",
+      "translation": [
+        "to drive",
+        "to go (by vehicle)",
+        "to ride"
+      ],
+      "ipa": "ˈfaːʁən",
+      "pronunciation_guide": "FAH-ren",
+      "verb_forms": {
+        "infinitive": "fahren",
+        "present": {
+          "ich": "fahre",
+          "du": "fährst",
+          "er_sie_es": "fährt",
+          "wir": "fahren",
+          "ihr": "fahrt",
+          "sie_Sie": "fahren"
+        },
+        "praeteritum": {
+          "ich": "fuhr",
+          "du": "fuhrst",
+          "er_sie_es": "fuhr",
+          "wir": "fuhren",
+          "ihr": "fuhrt",
+          "sie_Sie": "fuhren"
+        },
+        "partizip_ii": "gefahren"
+      },
+      "auxiliary": "sein",
+      "example": {
+        "de": "Morgen fahren wir nach Berlin.",
+        "en": "Tomorrow we are going to Berlin."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Auto",
+        "der Zug"
+      ],
+      "topic": "transportation",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0001",
+      "word": "sein",
+      "category": "verb",
+      "translation": [
+        "to be"
+      ],
+      "ipa": "zaɪ̯n",
+      "pronunciation_guide": "ZINE",
+      "verb_forms": {
+        "infinitive": "sein",
+        "present": {
+          "ich": "bin",
+          "du": "bist",
+          "er_sie_es": "ist",
+          "wir": "sind",
+          "ihr": "seid",
+          "sie_Sie": "sind"
+        },
+        "praeteritum": {
+          "ich": "war",
+          "du": "warst",
+          "er_sie_es": "war",
+          "wir": "waren",
+          "ihr": "wart",
+          "sie_Sie": "waren"
+        },
+        "partizip_ii": "gewesen"
+      },
+      "auxiliary": "sein",
+      "example": {
+        "de": "Ich bin müde.",
+        "en": "I am tired."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "haben"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0002",
+      "word": "haben",
+      "category": "verb",
+      "translation": [
+        "to have"
+      ],
+      "ipa": "ˈhaːbn̩",
+      "pronunciation_guide": "HAH-ben",
+      "verb_forms": {
+        "infinitive": "haben",
+        "present": {
+          "ich": "habe",
+          "du": "hast",
+          "er_sie_es": "hat",
+          "wir": "haben",
+          "ihr": "habt",
+          "sie_Sie": "haben"
+        },
+        "praeteritum": {
+          "ich": "hatte",
+          "du": "hattest",
+          "er_sie_es": "hatte",
+          "wir": "hatten",
+          "ihr": "hattet",
+          "sie_Sie": "hatten"
+        },
+        "partizip_ii": "gehabt"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Hast du heute Zeit?",
+        "en": "Do you have time today?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "sein"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0003",
+      "word": "gehen",
+      "category": "verb",
+      "translation": [
+        "to go",
+        "to walk"
+      ],
+      "ipa": "ˈɡeːən",
+      "pronunciation_guide": "GAY-en",
+      "verb_forms": {
+        "infinitive": "gehen",
+        "present": {
+          "ich": "gehe",
+          "du": "gehst",
+          "er_sie_es": "geht",
+          "wir": "gehen",
+          "ihr": "geht",
+          "sie_Sie": "gehen"
+        },
+        "praeteritum": {
+          "ich": "ging",
+          "du": "gingst",
+          "er_sie_es": "ging",
+          "wir": "gingen",
+          "ihr": "gingt",
+          "sie_Sie": "gingen"
+        },
+        "partizip_ii": "gegangen"
+      },
+      "auxiliary": "sein",
+      "example": {
+        "de": "Ich gehe jetzt nach Hause.",
+        "en": "I am going home now."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kommen"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0004",
+      "word": "kommen",
+      "category": "verb",
+      "translation": [
+        "to come"
+      ],
+      "ipa": "ˈkɔmən",
+      "pronunciation_guide": "KOM-men",
+      "verb_forms": {
+        "infinitive": "kommen",
+        "present": {
+          "ich": "komme",
+          "du": "kommst",
+          "er_sie_es": "kommt",
+          "wir": "kommen",
+          "ihr": "kommt",
+          "sie_Sie": "kommen"
+        },
+        "praeteritum": {
+          "ich": "kam",
+          "du": "kamst",
+          "er_sie_es": "kam",
+          "wir": "kamen",
+          "ihr": "kamt",
+          "sie_Sie": "kamen"
+        },
+        "partizip_ii": "gekommen"
+      },
+      "auxiliary": "sein",
+      "example": {
+        "de": "Woher kommst du?",
+        "en": "Where do you come from?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "gehen"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0005",
+      "word": "machen",
+      "category": "verb",
+      "translation": [
+        "to do",
+        "to make"
+      ],
+      "ipa": "ˈmaxn̩",
+      "pronunciation_guide": "MAH-khen",
+      "verb_forms": {
+        "infinitive": "machen",
+        "present": {
+          "ich": "mache",
+          "du": "machst",
+          "er_sie_es": "macht",
+          "wir": "machen",
+          "ihr": "macht",
+          "sie_Sie": "machen"
+        },
+        "praeteritum": {
+          "ich": "machte",
+          "du": "machtest",
+          "er_sie_es": "machte",
+          "wir": "machten",
+          "ihr": "machtet",
+          "sie_Sie": "machten"
+        },
+        "partizip_ii": "gemacht"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Was machst du am Wochenende?",
+        "en": "What are you doing at the weekend?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0006",
+      "word": "schlafen",
+      "category": "verb",
+      "translation": [
+        "to sleep"
+      ],
+      "ipa": "ˈʃlaːfn̩",
+      "pronunciation_guide": "SHLAH-fen",
+      "verb_forms": {
+        "infinitive": "schlafen",
+        "present": {
+          "ich": "schlafe",
+          "du": "schläfst",
+          "er_sie_es": "schläft",
+          "wir": "schlafen",
+          "ihr": "schlaft",
+          "sie_Sie": "schlafen"
+        },
+        "praeteritum": {
+          "ich": "schlief",
+          "du": "schliefst",
+          "er_sie_es": "schlief",
+          "wir": "schliefen",
+          "ihr": "schlieft",
+          "sie_Sie": "schliefen"
+        },
+        "partizip_ii": "geschlafen"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Das Baby schläft.",
+        "en": "The baby is sleeping."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Bett"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0007",
+      "word": "aufstehen",
+      "category": "verb",
+      "translation": [
+        "to get up"
+      ],
+      "ipa": "ˈaʊ̯fˌʃteːən",
+      "pronunciation_guide": "OWF-shtay-en",
+      "verb_forms": {
+        "infinitive": "aufstehen",
+        "present": {
+          "ich": "stehe auf",
+          "du": "stehst auf",
+          "er_sie_es": "steht auf",
+          "wir": "stehen auf",
+          "ihr": "steht auf",
+          "sie_Sie": "stehen auf"
+        },
+        "praeteritum": {
+          "ich": "stand auf",
+          "du": "standst auf",
+          "er_sie_es": "stand auf",
+          "wir": "standen auf",
+          "ihr": "standet auf",
+          "sie_Sie": "standen auf"
+        },
+        "partizip_ii": "aufgestanden"
+      },
+      "auxiliary": "sein",
+      "example": {
+        "de": "Ich stehe um sechs Uhr auf.",
+        "en": "I get up at six o'clock."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "schlafen"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0008",
+      "word": "spielen",
+      "category": "verb",
+      "translation": [
+        "to play"
+      ],
+      "ipa": "ˈʃpiːlən",
+      "pronunciation_guide": "SHPEE-len",
+      "verb_forms": {
+        "infinitive": "spielen",
+        "present": {
+          "ich": "spiele",
+          "du": "spielst",
+          "er_sie_es": "spielt",
+          "wir": "spielen",
+          "ihr": "spielt",
+          "sie_Sie": "spielen"
+        },
+        "praeteritum": {
+          "ich": "spielte",
+          "du": "spieltest",
+          "er_sie_es": "spielte",
+          "wir": "spielten",
+          "ihr": "spieltet",
+          "sie_Sie": "spielten"
+        },
+        "partizip_ii": "gespielt"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Die Kinder spielen Fußball.",
+        "en": "The children are playing football."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Kind"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0009",
+      "word": "mögen",
+      "category": "verb",
+      "translation": [
+        "to like"
+      ],
+      "ipa": "ˈmøːɡn̩",
+      "pronunciation_guide": "MUE-gen (say 'ay' with rounded lips)",
+      "verb_forms": {
+        "infinitive": "mögen",
+        "present": {
+          "ich": "mag",
+          "du": "magst",
+          "er_sie_es": "mag",
+          "wir": "mögen",
+          "ihr": "mögt",
+          "sie_Sie": "mögen"
+        },
+        "praeteritum": {
+          "ich": "mochte",
+          "du": "mochtest",
+          "er_sie_es": "mochte",
+          "wir": "mochten",
+          "ihr": "mochtet",
+          "sie_Sie": "mochten"
+        },
+        "partizip_ii": "gemocht"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich mag Schokolade.",
+        "en": "I like chocolate."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0010",
+      "word": "Uhr",
+      "article": "die",
+      "plural": "Uhren",
+      "category": "noun",
+      "translation": [
+        "clock",
+        "watch",
+        "o'clock"
+      ],
+      "ipa": "uːɐ̯",
+      "pronunciation_guide": "OOR",
+      "example": {
+        "de": "Es ist acht Uhr.",
+        "en": "It is eight o'clock."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Zeit"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0011",
+      "word": "Zeit",
+      "article": "die",
+      "plural": "Zeiten",
+      "category": "noun",
+      "translation": [
+        "time"
+      ],
+      "ipa": "tsaɪ̯t",
+      "pronunciation_guide": "TSITE",
+      "example": {
+        "de": "Ich habe keine Zeit.",
+        "en": "I have no time."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Uhr"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0012",
+      "word": "Tag",
+      "article": "der",
+      "plural": "Tage",
+      "category": "noun",
+      "translation": [
+        "day"
+      ],
+      "ipa": "taːk",
+      "pronunciation_guide": "TAHK",
+      "example": {
+        "de": "Der Tag beginnt früh.",
+        "en": "The day starts early."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Woche"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0013",
+      "word": "Woche",
+      "article": "die",
+      "plural": "Wochen",
+      "category": "noun",
+      "translation": [
+        "week"
+      ],
+      "ipa": "ˈvɔxə",
+      "pronunciation_guide": "VOKH-uh",
+      "example": {
+        "de": "Die Woche hat sieben Tage.",
+        "en": "The week has seven days."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Tag"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0014",
+      "word": "heute",
+      "category": "adverb",
+      "translation": [
+        "today"
+      ],
+      "ipa": "ˈhɔɪ̯tə",
+      "pronunciation_guide": "HOY-tuh",
+      "example": {
+        "de": "Heute ist Montag.",
+        "en": "Today is Monday."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "morgen",
+        "gestern"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0015",
+      "word": "morgen",
+      "category": "adverb",
+      "translation": [
+        "tomorrow"
+      ],
+      "ipa": "ˈmɔʁɡn̩",
+      "pronunciation_guide": "MOR-gen",
+      "example": {
+        "de": "Morgen habe ich frei.",
+        "en": "Tomorrow I have the day off."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "heute"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0016",
+      "word": "gestern",
+      "category": "adverb",
+      "translation": [
+        "yesterday"
+      ],
+      "ipa": "ˈɡɛstɐn",
+      "pronunciation_guide": "GES-tern",
+      "example": {
+        "de": "Gestern war es kalt.",
+        "en": "Yesterday it was cold."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "heute"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-DAILY-0017",
+      "word": "jetzt",
+      "category": "adverb",
+      "translation": [
+        "now"
+      ],
+      "ipa": "jɛtst",
+      "pronunciation_guide": "YETST",
+      "example": {
+        "de": "Ich habe jetzt Pause.",
+        "en": "I am on a break now."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "heute"
+      ],
+      "topic": "daily-routines",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0001",
+      "word": "Wetter",
+      "article": "das",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "weather"
+      ],
+      "ipa": "ˈvɛtɐ",
+      "pronunciation_guide": "VET-ter",
+      "example": {
+        "de": "Wie ist das Wetter heute?",
+        "en": "What is the weather like today?"
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Sonne",
+        "der Regen"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0002",
+      "word": "Sonne",
+      "article": "die",
+      "plural": "Sonnen",
+      "category": "noun",
+      "translation": [
+        "sun"
+      ],
+      "ipa": "ˈzɔnə",
+      "pronunciation_guide": "ZON-nuh",
+      "example": {
+        "de": "Die Sonne scheint.",
+        "en": "The sun is shining."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "warm"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0003",
+      "word": "Regen",
+      "article": "der",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "rain"
+      ],
+      "ipa": "ˈʁeːɡn̩",
+      "pronunciation_guide": "RAY-gen",
+      "example": {
+        "de": "Bei Regen bleibe ich zu Hause.",
+        "en": "When it rains I stay at home."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "das Wetter"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0004",
+      "word": "Schnee",
+      "article": "der",
+      "plural": "no plural",
+      "category": "noun",
+      "translation": [
+        "snow"
+      ],
+      "ipa": "ʃneː",
+      "pronunciation_guide": "SHNAY",
+      "example": {
+        "de": "Im Winter gibt es Schnee.",
+        "en": "In winter there is snow."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kalt"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0005",
+      "word": "warm",
+      "category": "adjective",
+      "translation": [
+        "warm"
+      ],
+      "ipa": "vaʁm",
+      "pronunciation_guide": "VARM",
+      "example": {
+        "de": "Heute ist es warm.",
+        "en": "It is warm today."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "kalt"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0006",
+      "word": "kalt",
+      "category": "adjective",
+      "translation": [
+        "cold"
+      ],
+      "ipa": "kalt",
+      "pronunciation_guide": "KAHLT",
+      "example": {
+        "de": "Im Januar ist es kalt.",
+        "en": "It is cold in January."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "warm"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WEATHER-0007",
+      "word": "schön",
+      "category": "adjective",
+      "translation": [
+        "beautiful",
+        "nice"
+      ],
+      "ipa": "ʃøːn",
+      "pronunciation_guide": "SHUEN (say 'ay' with rounded lips)",
+      "example": {
+        "de": "Das Wetter ist schön.",
+        "en": "The weather is nice."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "gut"
+      ],
+      "topic": "weather",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WORK-0001",
+      "word": "Arbeit",
+      "article": "die",
+      "plural": "Arbeiten",
+      "category": "noun",
+      "translation": [
+        "work",
+        "job"
+      ],
+      "ipa": "ˈaʁbaɪ̯t",
+      "pronunciation_guide": "AR-bite",
+      "example": {
+        "de": "Die Arbeit beginnt um neun.",
+        "en": "Work starts at nine."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "arbeiten"
+      ],
+      "topic": "work",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WORK-0002",
+      "word": "Beruf",
+      "article": "der",
+      "plural": "Berufe",
+      "category": "noun",
+      "translation": [
+        "profession",
+        "occupation"
+      ],
+      "ipa": "bəˈʁuːf",
+      "pronunciation_guide": "buh-ROOF",
+      "example": {
+        "de": "Was sind Sie von Beruf?",
+        "en": "What do you do for a living?"
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "die Arbeit"
+      ],
+      "topic": "work",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-WORK-0003",
+      "word": "arbeiten",
+      "category": "verb",
+      "translation": [
+        "to work"
+      ],
+      "ipa": "ˈaʁbaɪ̯tn̩",
+      "pronunciation_guide": "AR-bite-en",
+      "verb_forms": {
+        "infinitive": "arbeiten",
+        "present": {
+          "ich": "arbeite",
+          "du": "arbeitest",
+          "er_sie_es": "arbeitet",
+          "wir": "arbeiten",
+          "ihr": "arbeitet",
+          "sie_Sie": "arbeiten"
+        },
+        "praeteritum": {
+          "ich": "arbeitete",
+          "du": "arbeitetest",
+          "er_sie_es": "arbeitete",
+          "wir": "arbeiteten",
+          "ihr": "arbeitetet",
+          "sie_Sie": "arbeiteten"
+        },
+        "partizip_ii": "gearbeitet"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Sie arbeitet in einem Büro.",
+        "en": "She works in an office."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Arbeit"
+      ],
+      "topic": "work",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0001",
+      "word": "Schule",
+      "article": "die",
+      "plural": "Schulen",
+      "category": "noun",
+      "translation": [
+        "school"
+      ],
+      "ipa": "ˈʃuːlə",
+      "pronunciation_guide": "SHOO-luh",
+      "example": {
+        "de": "Die Kinder gehen in die Schule.",
+        "en": "The children go to school."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Lehrer"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0002",
+      "word": "Lehrer",
+      "article": "der",
+      "plural": "Lehrer",
+      "category": "noun",
+      "translation": [
+        "teacher (male)"
+      ],
+      "ipa": "ˈleːʁɐ",
+      "pronunciation_guide": "LAY-rer",
+      "example": {
+        "de": "Der Lehrer erklärt die Grammatik.",
+        "en": "The teacher explains the grammar."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "die Lehrerin"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0003",
+      "word": "Lehrerin",
+      "article": "die",
+      "plural": "Lehrerinnen",
+      "category": "noun",
+      "translation": [
+        "teacher (female)"
+      ],
+      "ipa": "ˈleːʁəʁɪn",
+      "pronunciation_guide": "LAY-ruh-rin",
+      "example": {
+        "de": "Unsere Lehrerin ist sehr nett.",
+        "en": "Our teacher is very nice."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Lehrer"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0004",
+      "word": "Buch",
+      "article": "das",
+      "plural": "Bücher",
+      "category": "noun",
+      "translation": [
+        "book"
+      ],
+      "ipa": "buːx",
+      "pronunciation_guide": "BOOKH",
+      "example": {
+        "de": "Ich lese ein Buch.",
+        "en": "I am reading a book."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "lesen"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0005",
+      "word": "Kurs",
+      "article": "der",
+      "plural": "Kurse",
+      "category": "noun",
+      "translation": [
+        "course",
+        "class"
+      ],
+      "ipa": "kʊʁs",
+      "pronunciation_guide": "KOORS",
+      "example": {
+        "de": "Der Deutschkurs ist am Montag.",
+        "en": "The German class is on Monday."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "lernen"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0006",
+      "word": "Sprache",
+      "article": "die",
+      "plural": "Sprachen",
+      "category": "noun",
+      "translation": [
+        "language"
+      ],
+      "ipa": "ˈʃpʁaːxə",
+      "pronunciation_guide": "SHPRAH-khuh",
+      "example": {
+        "de": "Deutsch ist eine schöne Sprache.",
+        "en": "German is a beautiful language."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "sprechen"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0007",
+      "word": "lernen",
+      "category": "verb",
+      "translation": [
+        "to learn",
+        "to study"
+      ],
+      "ipa": "ˈlɛʁnən",
+      "pronunciation_guide": "LEHR-nen",
+      "verb_forms": {
+        "infinitive": "lernen",
+        "present": {
+          "ich": "lerne",
+          "du": "lernst",
+          "er_sie_es": "lernt",
+          "wir": "lernen",
+          "ihr": "lernt",
+          "sie_Sie": "lernen"
+        },
+        "praeteritum": {
+          "ich": "lernte",
+          "du": "lerntest",
+          "er_sie_es": "lernte",
+          "wir": "lernten",
+          "ihr": "lerntet",
+          "sie_Sie": "lernten"
+        },
+        "partizip_ii": "gelernt"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich lerne jeden Tag Deutsch.",
+        "en": "I study German every day."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "der Kurs"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0008",
+      "word": "sprechen",
+      "category": "verb",
+      "translation": [
+        "to speak"
+      ],
+      "ipa": "ˈʃpʁɛçn̩",
+      "pronunciation_guide": "SHPREKH-en",
+      "verb_forms": {
+        "infinitive": "sprechen",
+        "present": {
+          "ich": "spreche",
+          "du": "sprichst",
+          "er_sie_es": "spricht",
+          "wir": "sprechen",
+          "ihr": "sprecht",
+          "sie_Sie": "sprechen"
+        },
+        "praeteritum": {
+          "ich": "sprach",
+          "du": "sprachst",
+          "er_sie_es": "sprach",
+          "wir": "sprachen",
+          "ihr": "spracht",
+          "sie_Sie": "sprachen"
+        },
+        "partizip_ii": "gesprochen"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Sprichst du Englisch?",
+        "en": "Do you speak English?"
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "die Sprache"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0009",
+      "word": "lesen",
+      "category": "verb",
+      "translation": [
+        "to read"
+      ],
+      "ipa": "ˈleːzn̩",
+      "pronunciation_guide": "LAY-zen",
+      "verb_forms": {
+        "infinitive": "lesen",
+        "present": {
+          "ich": "lese",
+          "du": "liest",
+          "er_sie_es": "liest",
+          "wir": "lesen",
+          "ihr": "lest",
+          "sie_Sie": "lesen"
+        },
+        "praeteritum": {
+          "ich": "las",
+          "du": "last",
+          "er_sie_es": "las",
+          "wir": "lasen",
+          "ihr": "last",
+          "sie_Sie": "lasen"
+        },
+        "partizip_ii": "gelesen"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Er liest die Zeitung.",
+        "en": "He is reading the newspaper."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "das Buch"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EDU-0010",
+      "word": "verstehen",
+      "category": "verb",
+      "translation": [
+        "to understand"
+      ],
+      "ipa": "fɛɐ̯ˈʃteːən",
+      "pronunciation_guide": "fehr-SHTAY-en",
+      "verb_forms": {
+        "infinitive": "verstehen",
+        "present": {
+          "ich": "verstehe",
+          "du": "verstehst",
+          "er_sie_es": "versteht",
+          "wir": "verstehen",
+          "ihr": "versteht",
+          "sie_Sie": "verstehen"
+        },
+        "praeteritum": {
+          "ich": "verstand",
+          "du": "verstandst",
+          "er_sie_es": "verstand",
+          "wir": "verstanden",
+          "ihr": "verstandet",
+          "sie_Sie": "verstanden"
+        },
+        "partizip_ii": "verstanden"
+      },
+      "auxiliary": "haben",
+      "example": {
+        "de": "Ich verstehe das nicht.",
+        "en": "I don't understand that."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "lernen"
+      ],
+      "topic": "education",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EMO-0001",
+      "word": "gut",
+      "category": "adjective",
+      "translation": [
+        "good",
+        "well"
+      ],
+      "ipa": "ɡuːt",
+      "pronunciation_guide": "GOOT",
+      "example": {
+        "de": "Mir geht es gut.",
+        "en": "I am doing well."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "schlecht"
+      ],
+      "topic": "emotions",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EMO-0002",
+      "word": "schlecht",
+      "category": "adjective",
+      "translation": [
+        "bad",
+        "badly"
+      ],
+      "ipa": "ʃlɛçt",
+      "pronunciation_guide": "SHLEKHT",
+      "example": {
+        "de": "Heute geht es mir schlecht.",
+        "en": "Today I feel bad."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "gut"
+      ],
+      "topic": "emotions",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EMO-0003",
+      "word": "müde",
+      "category": "adjective",
+      "translation": [
+        "tired"
+      ],
+      "ipa": "ˈmyːdə",
+      "pronunciation_guide": "MUE-duh",
+      "example": {
+        "de": "Nach der Arbeit bin ich müde.",
+        "en": "After work I am tired."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [
+        "schlafen"
+      ],
+      "topic": "emotions",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EMO-0004",
+      "word": "glücklich",
+      "category": "adjective",
+      "translation": [
+        "happy"
+      ],
+      "ipa": "ˈɡlʏklɪç",
+      "pronunciation_guide": "GLUEK-likh",
+      "example": {
+        "de": "Sie ist sehr glücklich.",
+        "en": "She is very happy."
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "traurig"
+      ],
+      "topic": "emotions",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-EMO-0005",
+      "word": "traurig",
+      "category": "adjective",
+      "translation": [
+        "sad"
+      ],
+      "ipa": "ˈtʁaʊ̯ʁɪç",
+      "pronunciation_guide": "TROW-rikh",
+      "example": {
+        "de": "Warum bist du traurig?",
+        "en": "Why are you sad?"
+      },
+      "difficulty": 2,
+      "related_vocabulary": [
+        "glücklich"
+      ],
+      "topic": "emotions",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0001",
+      "word": "eins",
+      "category": "numeral",
+      "translation": [
+        "one"
+      ],
+      "ipa": "aɪ̯ns",
+      "pronunciation_guide": "EYNS",
+      "example": {
+        "de": "Ich habe eins.",
+        "en": "I have one."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0002",
+      "word": "zwei",
+      "category": "numeral",
+      "translation": [
+        "two"
+      ],
+      "ipa": "tsvaɪ̯",
+      "pronunciation_guide": "TSVY",
+      "example": {
+        "de": "Ich habe zwei Kinder.",
+        "en": "I have two children."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0003",
+      "word": "drei",
+      "category": "numeral",
+      "translation": [
+        "three"
+      ],
+      "ipa": "dʁaɪ̯",
+      "pronunciation_guide": "DRY",
+      "example": {
+        "de": "Wir sind drei Personen.",
+        "en": "We are three people."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0004",
+      "word": "vier",
+      "category": "numeral",
+      "translation": [
+        "four"
+      ],
+      "ipa": "fiːɐ̯",
+      "pronunciation_guide": "FEER",
+      "example": {
+        "de": "Das Zimmer hat vier Fenster.",
+        "en": "The room has four windows."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0005",
+      "word": "fünf",
+      "category": "numeral",
+      "translation": [
+        "five"
+      ],
+      "ipa": "fʏnf",
+      "pronunciation_guide": "FUENF",
+      "example": {
+        "de": "Das kostet fünf Euro.",
+        "en": "That costs five euros."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0006",
+      "word": "sechs",
+      "category": "numeral",
+      "translation": [
+        "six"
+      ],
+      "ipa": "zɛks",
+      "pronunciation_guide": "ZEKS",
+      "example": {
+        "de": "Ich stehe um sechs Uhr auf.",
+        "en": "I get up at six o'clock."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0007",
+      "word": "sieben",
+      "category": "numeral",
+      "translation": [
+        "seven"
+      ],
+      "ipa": "ˈziːbn̩",
+      "pronunciation_guide": "ZEE-ben",
+      "example": {
+        "de": "Die Woche hat sieben Tage.",
+        "en": "The week has seven days."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0008",
+      "word": "acht",
+      "category": "numeral",
+      "translation": [
+        "eight"
+      ],
+      "ipa": "axt",
+      "pronunciation_guide": "AHKHT",
+      "example": {
+        "de": "Der Kurs beginnt um acht.",
+        "en": "The class starts at eight."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0009",
+      "word": "neun",
+      "category": "numeral",
+      "translation": [
+        "nine"
+      ],
+      "ipa": "nɔɪ̯n",
+      "pronunciation_guide": "NOYN",
+      "example": {
+        "de": "Der Bus kommt um neun Uhr.",
+        "en": "The bus comes at nine o'clock."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0010",
+      "word": "zehn",
+      "category": "numeral",
+      "translation": [
+        "ten"
+      ],
+      "ipa": "tseːn",
+      "pronunciation_guide": "TSAYN",
+      "example": {
+        "de": "Meine Schwester ist zehn.",
+        "en": "My sister is ten."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0011",
+      "word": "zwanzig",
+      "category": "numeral",
+      "translation": [
+        "twenty"
+      ],
+      "ipa": "ˈtsvantsɪç",
+      "pronunciation_guide": "TSVAHN-tsikh",
+      "example": {
+        "de": "Ich bin zwanzig Jahre alt.",
+        "en": "I am twenty years old."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    },
+    {
+      "id": "A1-VOC-NUM-0012",
+      "word": "hundert",
+      "category": "numeral",
+      "translation": [
+        "hundred"
+      ],
+      "ipa": "ˈhʊndɐt",
+      "pronunciation_guide": "HOON-dert",
+      "example": {
+        "de": "Das kostet hundert Euro.",
+        "en": "That costs a hundred euros."
+      },
+      "difficulty": 1,
+      "related_vocabulary": [],
+      "topic": "numbers",
+      "source": "Deutsche with Divya A1 starter list (draft)",
+      "is_verified": false
+    }
+  ]
+}
